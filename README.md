@@ -1,10 +1,12 @@
-### Hi 👋Hi,I'm Muhammad Adnan
+<h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
+<h3 align="center">A passionate Web Developer | Node JS Developer</h3>
 
 
-**MuhammadAdnan11/MuhammadAdnan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
-A passionate Web Developer | Nodejs Developer<br><br>.🌱 I’m currently learning Back-End (Node JS)<br><br>.👨‍💻 All of my projects are available at https://github.com/MuhammadAdnan11<br><br>.💬 Ask me about Frontend | React | Next.js <br><br>.📫 How to reach me adnan191022@gmail.com
+<br><br>
+.🌱 I’m currently learning Back-End (Node JS)<br><br>
+.👨‍💻 All of my projects are available at https://github.com/MuhammadAdnan11<br><br>
+.💬 Ask me about Frontend | React | Next.js <br><br>
+.📫 How to reach me adnan191022@gmail.com
 
 
 ## 🌐 Socials:
